@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Basic Websites",
+    "imageSrc": "pricings/basic-img.jpg",
+    "description": "In this package, we specialize in crafting fundamental websites tailored for personal use. These websites, designed with a maximum of 5 pages, cater to individual needs. Complimentary services under this package are provided for a duration of 3 months. Prices are subject to adjustment based on added functionality and additional pages. For further inquiries and to initiate the commencement of this package, kindly reach out to me via email.",
+    "skills": ["Rs 2000", "Rs 5000", "Rs 8000"]
+  },
+  {
+    "title": "Standard Websites",
+    "imageSrc": "pricings/standard-img.jpg",
+    "description": "In this package, we specialize in creating standard websites typically utilized for both small and large businesses. These websites may exceed 5 pages in length, and the complimentary services included in this package extend for a duration of 1 year. Additionally, prices are subject to adjustment based on the incorporated functionality and the number of pages. For further information or to initiate the commencement of this package, please feel free to contact me via email.",
+    "skills": ["Rs 10000"]
+  }
+]

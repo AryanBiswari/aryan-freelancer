@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Freelance Web Developer",
+    "organisation": "Upwork",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "experiences": ["Worked for different clients", "Worked on different technologies"],
+    "imageSrc": "history/upwork-logo.png"
+  },
+  {
+    "role": "Computer Teacher",
+    "organisation": "GGHS Dabra",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": ["Teaches basics of computer 100+ students","Teaches web development to students","Teaches AI tools to students"],
+    "imageSrc": "history/gghs-logo.jpg"
+  }
+  
+]
