@@ -12,6 +12,7 @@ export const ProjectCard = ({
         src={getImageUrl(imageSrc)}
         alt={`Image of ${title}`}
         className={styles.image}
+        width="288" height="224"
       />
       <h3 className={styles.title}>{title}</h3>
       <p className={styles.description}>{description}</p>

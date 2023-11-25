@@ -15,7 +15,7 @@ export const Experience = () => {
             return (
               <div key={id} className={styles.skill}>
                 <div className={styles.skillImageContainer}>
-                  <img src={getImageUrl(skill.imageSrc)} alt={skill.title} />
+                  <img src={getImageUrl(skill.imageSrc)} alt={skill.title} width="75" height="75" />
                 </div>
                 <p>{skill.title}</p>
               </div>

@@ -12,6 +12,7 @@ export const About = () => {
           src={getImageUrl("about/aboutImage-m.png")}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
+          width="500" height="500"
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
