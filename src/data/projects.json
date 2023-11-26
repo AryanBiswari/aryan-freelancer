@@ -4,7 +4,7 @@
     "imageSrc": "projects/bharat-ko-jaano.jpeg",
     "description": "This project is designed for the 'Bharat ko Jaano' Community, hosting periodic quiz games.Feel free to join the quiz, conducted by this community, and test your knowledge about Bharat (India).",
     "skills": ["HTML", "CSS", "JS"],
-    "demo": ""
+    "demo": "https://bharat-ko-jaano-senior.netlify.app/"
   },
   {
     "title": "Netflix Clone",
