@@ -1,17 +1,25 @@
 [
   {
     "title": "Bharat ko Jaano Quiz",
-    "imageSrc": "projects/bharat-ko-jaano.jpeg",
+    "imageSrc": "projects/bharat-ko-jaano-1.jpg",
     "description": "This project is designed for the 'Bharat ko Jaano' Community, hosting periodic quiz games.Feel free to join the quiz, conducted by this community, and test your knowledge about Bharat (India).",
     "skills": ["HTML", "CSS", "JS"],
     "demo": "https://bharat-ko-jaano-senior.netlify.app/"
   },
   {
     "title": "Netflix Clone",
-    "imageSrc": "projects/netflix-clone.jpeg",
+    "imageSrc": "projects/netflix.jpg",
     "description": "This project is crafted for my personal enrichment, aiding me in extensive learning.It serves as a valuable tool for my own educational journey and has significantly contributed to my knowledge.",
     "skills": ["React", "Firebase"],
     "demo": "https://netflix-clone-49086.web.app/"
+    
+  },
+  {
+    "title": "Typing Speed Test",
+    "imageSrc": "projects/Speed-Test.jpg",
+    "description": "As a high school computer teacher, I’ve developed a user-friendly typing speed test website. This innovative tool is designed to significantly enhance the typing proficiency of my students, contributing to their overall digital literacy.",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://typing-speed-by-aryan.netlify.app/"
     
   }
 ]
